@@ -1,6 +1,6 @@
 # 👁️ Infotrace
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://waybacktweets.streamlit.app) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/atiilla/infotrace?include_prereleases)](https://github.com/atiilla/infotrace/releases)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://infotrace.streamlit.app) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/atiilla/infotrace?include_prereleases)](https://github.com/atiilla/infotrace/releases)
 
 Explore comprehensive People & Phone Lookup functionality with our innovative tool, accessible through [whoapp.us](https://whoapp.us). Uncover detailed insights into individuals and phone numbers effortlessly.
 
