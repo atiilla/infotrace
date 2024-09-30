@@ -4,6 +4,10 @@
 
 Explore comprehensive People & Phone Lookup functionality with our innovative tool, accessible through [whoapp.us](https://whoapp.us). Uncover detailed insights into individuals and phone numbers effortlessly.
 
+Screenshot:
+
+![Screenshot](./screenshot.png)
+
 ## Link
 [https://infotrace.streamlit.app](https://infotrace.streamlit.app)
 
