@@ -6,7 +6,7 @@ Explore comprehensive People & Phone Lookup functionality with our innovative to
 
 Screenshot:
 
-![Screenshot](./screenshot.png)
+![Screenshot](./app.png)
 
 ## Link
 [https://infotrace.streamlit.app](https://infotrace.streamlit.app)
